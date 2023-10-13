@@ -1,0 +1,8 @@
+package com.example.demo.Model;
+
+
+
+public class Category extends AbstractEntity {
+
+
+}
